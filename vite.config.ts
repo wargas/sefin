@@ -6,7 +6,7 @@ export default defineConfig({
   base: '/sefin',
   plugins: [react()],
   build: {
-    outDir: '../wargas.github.io/sefin',
+    // outDir: '../wargas.github.io/sefin',
     
   }
 })
