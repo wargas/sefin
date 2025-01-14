@@ -121,8 +121,8 @@ export default {
     "202301-209912.ANA.240.E.V": 14080.162366,
     "202301-209912.ANA.240.E.VI": 15237.949284,
   },
-  tetoRGPS: 7786.02,
+  tetoRGPS: 8157.41,
   irpf: 896,
-  combustivel: 1453.99*1.0462,
+  combustivel: 1453.99*1.0462*1.0471,
   salario_prefeito: 28656.54
 };
