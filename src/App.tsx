@@ -157,7 +157,7 @@ function App() {
           <LineValue
             subtotal
             label='DESCONTOS'
-            value={money(ipm + ceprev + irpf + teto + fortsaude)}
+            value={money(ipm + ceprev + irpf + teto + fortsaude + sindicato)}
           />
           <LineValue total label='LÍQUIDO' value={money(liquido)} />
         </table>
