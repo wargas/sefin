@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/sefin',
+  // base: '/sefin',
   plugins: [react()],
   build: {
     // outDir: '../wargas.github.io/sefin',
